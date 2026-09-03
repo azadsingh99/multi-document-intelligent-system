@@ -1,0 +1,19 @@
+FIRST NATIONAL BANK
+Retail Account Statement — Q1 2024
+
+Customer Name: John Smith
+Account Number: 1234567890
+Account Type: Checking
+Statement Period: 01 Jan 2024 – 31 Mar 2024
+Opening Balance: $48,250.00
+Closing Balance: $50,000.00
+Address on File: 14 Maple Street, Boston, MA 02108
+
+Transactions:
+15 Jan 2024  Salary Credit     +$6,666.67
+02 Feb 2024  Rent Payment      -$2,200.00
+20 Mar 2024  Wire Out          -$2,716.67
+
+Notes: No overdrafts recorded in this period.
+Tax Identification Number: Not on file
+Employment: Not provided

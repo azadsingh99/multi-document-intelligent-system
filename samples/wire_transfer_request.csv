@@ -1,0 +1,10 @@
+field,value
+requestor_name,John Smith
+source_account,1234567890
+beneficiary_name,Harbor Construction LLC
+beneficiary_account,9988776655
+amount,2716.67
+currency,USD
+request_date,2024-03-20
+purpose,Contractor payment
+alternate_account_mentioned,1234567891

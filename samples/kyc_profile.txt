@@ -1,0 +1,16 @@
+KYC CUSTOMER PROFILE
+Bank: First National Bank
+Profile Date: 12 April 2024
+
+Full Legal Name: Jon Smith
+Account Number: 1234567891
+Date of Birth: 14 March 1988
+Residential Address: 88 Harbor Avenue, Cambridge, MA 02139
+ID Type: State Driver License
+ID Number: MA-448821
+Risk Rating: Medium
+PEP Status: No
+Source of Funds: Employment
+Annual Income Declared: $120,000
+Employment: Not provided
+Tax Identification Number: Not on file

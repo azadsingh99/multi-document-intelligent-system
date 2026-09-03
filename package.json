@@ -1,0 +1,27 @@
+{
+  "name": "multi-document-intelligent-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Multi-document intelligence workbench for banking document analysis",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,web -c cyan,magenta \"npm run dev -w backend\" \"npm run dev -w frontend\"",
+    "build": "npm run build -w backend && npm run build -w frontend",
+    "typecheck": "npm run typecheck -w backend && npm run typecheck -w frontend",
+    "test": "npm run test -w backend",
+    "start": "npm run start -w backend",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down",
+    "generate:pdf": "node scripts/generate-sample-pdf.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "pdfkit": "^0.20.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
